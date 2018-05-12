@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/713
     wikipedia: http://en.wikipedia.org/wiki/William_MacLeod_Raine
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19055#Steve-Yeager
 gutenberg_issued: '2006-08-16'
 gutenberg_type: Text
 identifiers:
